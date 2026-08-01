@@ -1,0 +1,99 @@
+Privacy Policy for Calorie Cam
+
+Last updated: August 1, 2026
+
+This Privacy Policy describes Our policies and procedures regarding the collection, use, and disclosure of Your information when You use the Service and explains Your privacy rights.
+
+Calorie Cam is designed so that the most sensitive input — photos of your food — is never stored. By using the Service, You agree to this Privacy Policy.
+
+Summary
+
+- Meal photos are analyzed and then immediately deleted. They are never stored on Our servers or in Our database.
+- AI analysis requests are processed with Zero Data Retention routing.
+- Every nutrition result is an estimate shown as a range that You can review and correct. Results are not medical advice.
+- We do not use advertising, analytics trackers, or data brokers, and We never sell Your data.
+- You can delete Your account and all associated data from inside the app at any time.
+
+Interpretation and Definitions
+
+Interpretation
+
+The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions apply whether they appear in singular or plural.
+
+Definitions
+
+For the purposes of this Privacy Policy:
+
+Application refers to Calorie Cam, the software program provided by the Company.
+
+Company (referred to as "the Company", "We", "Us", or "Our") refers to Innofate.
+
+Country refers to: Netherlands.
+
+Device means any device that can access the Service such as a cellphone or digital tablet.
+
+Personal Data means any information that relates to an identified or identifiable individual.
+
+Service refers to the Application.
+
+You means the individual accessing or using the Service.
+
+Collecting and Using Your Personal Data
+
+Data You provide
+
+- Account data: an account identifier and, when You sign in with email, Your email address. Sign in with Apple or Google provides the identity data those services return.
+- Profile data: nutrition targets, locale, units, and the onboarding inputs You enter (such as age, height, weight, activity level, and goal).
+- Nutrition data: the meal results You confirm (name, calorie estimate and range, macronutrients, ingredients, and Your corrections) and Your weight entries.
+- Purchase data: Your subscription entitlement status, linked to Apple's original transaction identifier. We do not receive or store payment card details; payment is handled entirely by Apple.
+- Usage metering: the date and count of AI scans, used to enforce the free daily scan limit.
+
+Photos, voice, and text descriptions
+
+When You choose to scan a meal, the Application creates a reduced-size copy of the photo, sends it over an encrypted connection for nutrition analysis, and deletes the temporary copy from the app cache after the request completes. Photos taken with the in-app camera are also deleted from the Device after processing. Photos are never stored in Our database or on Our servers — only the nutrition result You confirm is saved.
+
+When You dictate meals, speech recognition on Your Device creates a text transcript that You review before it is sent for analysis. Typed descriptions work the same way. AI analysis requests are processed with Zero Data Retention routing: the provider does not store the photo, transcript, or description after answering the request.
+
+Barcode scanning sends only the barcode number to the product database; no account information is attached.
+
+Service Providers
+
+We share data only with the processors needed to run the Service, and only the information needed for their function:
+
+- Google Firebase — account authentication.
+- Supabase — secure cloud storage of Your profile, nutrition, and weight data.
+- OpenRouter — AI nutrition analysis with Zero Data Retention routing.
+- Apple — subscription purchases and confirmation of subscription status.
+- Open Food Facts — barcode and food product data (receives only the barcode number or search text).
+
+We do not use advertising networks, analytics SDKs, or tracking technologies, and We do not sell or rent Personal Data.
+
+Retention and Deletion
+
+Nutrition and weight records remain until You delete them or delete Your account. Deleting Your account from inside the Application removes Your Firebase account and all connected records (profile, meals, weights, scan usage, and the entitlement link to Your App Store subscription).
+
+Deleting Your account does not cancel an active App Store subscription; subscriptions must be cancelled separately in Your Apple settings.
+
+Your Rights
+
+If You are in the European Economic Area, You have the right to access, correct, export, restrict, object to the processing of, and erase Your Personal Data. Most of these rights can be exercised directly in the Application (editing or deleting entries, and full account deletion). For anything else, contact Us at the address below. You also have the right to lodge a complaint with Your local data protection authority (in the Netherlands: Autoriteit Persoonsgegevens).
+
+Children
+
+The Service is not directed at children under 13, and We do not knowingly collect Personal Data from children under 13. Users under 18 are always given a maintenance calorie target, never a calorie deficit.
+
+Security
+
+All communication between the Application and Our servers uses encrypted connections (HTTPS). Server-side data access is restricted to authenticated, user-scoped requests.
+
+Medical Disclaimer
+
+Nutrition results are estimates presented as ranges and are provided for informational purposes only. They are not medical advice. Consult a qualified professional before making decisions about Your health.
+
+Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time. Changes are posted on this page with an updated "Last updated" date.
+
+Contact Us
+
+If You have questions about this Privacy Policy or want to make a privacy request, You can contact Us at: appoutliers@gmail.com
