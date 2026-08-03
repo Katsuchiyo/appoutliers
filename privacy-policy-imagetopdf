@@ -1,0 +1,91 @@
+Privacy Policy for Image to PDF
+
+Last updated: August 3, 2026
+
+This Privacy Policy describes Our policies and procedures regarding the collection, use, and disclosure of Your information when You use the Service and explains Your privacy rights.
+
+Image to PDF is built so that there is nothing to disclose. The Application has no user accounts, no servers, and no analytics. Your photos and the PDFs You create never leave Your Device. By using the Service, You agree to this Privacy Policy.
+
+Summary
+
+- We do not collect any Personal Data. There is no account to create and no data to sign in to.
+- Photos are converted to PDF entirely on Your Device. Nothing is uploaded, and We never see Your images or documents.
+- The Application contains no advertising networks, no analytics SDKs, and no third-party tracking technologies.
+- We never sell or rent data, because We do not hold any.
+- Subscriptions are handled entirely by Apple. We do not receive Your name, email address, or payment details.
+
+Interpretation and Definitions
+
+Interpretation
+
+The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions apply whether they appear in singular or plural.
+
+Definitions
+
+For the purposes of this Privacy Policy:
+
+Application refers to Image to PDF, the software program provided by the Company.
+
+Company (referred to as "the Company", "We", "Us", or "Our") refers to Innofate.
+
+Country refers to: Netherlands.
+
+Device means any device that can access the Service such as a cellphone or digital tablet.
+
+Personal Data means any information that relates to an identified or identifiable individual.
+
+Service refers to the Application.
+
+You means the individual accessing or using the Service.
+
+Collecting and Using Your Personal Data
+
+Data We collect
+
+None. The Application does not collect, transmit, or store Personal Data of any kind. It has no user accounts, no backend service, and no telemetry.
+
+Your photos and documents
+
+When You select photos, the Application reads them only to render the pages of Your PDF. All conversion, merging, page reordering, layout, and compression happens locally on Your Device using the operating system's own imaging frameworks. Neither the source images nor the resulting PDF are uploaded anywhere.
+
+Files You create are written to Your Device, and You choose what happens to them next through the standard iOS share sheet. Once You share a file, the privacy policy of the destination You choose applies to it.
+
+Photo library access
+
+The Application uses Apple's system photo picker, which runs outside the Application. You choose exactly which photos to hand over, and the Application receives only those. It is never granted access to Your photo library as a whole, which is why iOS does not show a photo permission prompt.
+
+Settings You choose
+
+Your preferences — such as default page size and export quality — are stored only in the Application's own storage on Your Device. They are removed when You delete the Application.
+
+Service Providers
+
+The Application uses no third-party service providers, SDKs, or processors.
+
+Apple processes subscription purchases and tells the Application whether an active subscription exists. This exchange happens between Your Device and Apple. We do not receive Your name, email address, or payment card details, and We operate no server that could receive them. Apple's handling of purchase data is governed by Apple's own privacy policy.
+
+Retention and Deletion
+
+We retain nothing, because We receive nothing. Everything the Application stores lives on Your Device, and deleting the Application removes it.
+
+Deleting the Application does not cancel an active App Store subscription; subscriptions must be cancelled separately in Your Apple settings.
+
+Your Rights
+
+If You are in the European Economic Area, You have the right to access, correct, export, restrict, object to the processing of, and erase Your Personal Data. Because We do not collect or hold any Personal Data, there is nothing for Us to retrieve, amend, or erase on Your behalf — the data is already exclusively in Your possession on Your Device. You may still contact Us at the address below with any privacy question, and You have the right to lodge a complaint with Your local data protection authority (in the Netherlands: Autoriteit Persoonsgegevens).
+
+Children
+
+The Service does not collect Personal Data from anyone, including children. It is a general-purpose utility and is not directed at children under 13.
+
+Security
+
+Because Your photos and documents never leave Your Device, they are protected by the encryption and sandboxing of the Device itself. The Application opens no network connections of its own; purchase communication is handled by Apple over encrypted connections.
+
+Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time. Changes are posted on this page with an updated "Last updated" date.
+
+Contact Us
+
+If You have questions about this Privacy Policy or want to make a privacy request, You can contact Us at: appoutliers@gmail.com
